@@ -8,8 +8,6 @@ I have extensive experience in the design and implementation of OLTP and Busines
 development and control of management models to support the organization, Management-oriented reportability, BSC indicators, Dashboards.
 I like to assume responsibilities and work on new projects that allow me to continue growing personally and professionally.
 
-Soy un apasionado de la musica y los deportes, en especial la bicicleta y deportes nauticoscomo el windsurf y surf, 
-tengo el privilegio de vivir en un pais con muy buen oleaje y viento
 
 
 Best regards
